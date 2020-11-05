@@ -6,4 +6,6 @@ Synthetic (or Numeric) Embryo:
 
 Timing data: a binary tree with branches every _n_ units of developmental time.  
 
-* look at the distribution of branching events (simulated using Uniform, Poisson, and Gaussian distributions).   
+* look at the distribution of branching events (simulated using Uniform, Poisson, and Gaussian distributions). 
+
+
